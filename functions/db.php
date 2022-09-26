@@ -6,7 +6,6 @@
 
 
     $con = mysqli_connect('localhost','YOUR_MYSQL_DB_USER_NAME','YOUR_MYSQL_DB_PASSWORD','YOUR_MYSQL_DB_NAME');
-    $connect = new PDO('mysql:host=localhost;dbname=YOUR_MYSQL_DB_NAME', 'YOUR_MYSQL_DB_USER_NAME', 'YOUR_MYSQL_DB_PASSWORD@');
 
 
 
